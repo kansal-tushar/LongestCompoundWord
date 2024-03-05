@@ -14,13 +14,13 @@ This Java program, LongestCompoundWord.java, finds the longest compound word and
 
 # Design Decisions:
 
--**Data Structure**: 
+- **Data Structure**: 
 Used a Trie for efficient word storage and retrieval.
--**Pair Class**: 
+- **Pair Class**: 
 Utilized a simple Pair class to manage word-suffix pairs.
--**Algorithm**: 
+- **Algorithm**: 
 Processed words from the file, identifying compound words using a queue-based approach. Used Trie for quick word lookup.
--**Time Measurement**: 
+- **Time Measurement**: 
 Measured processing time accurately using System.currentTimeMillis().
 
 # Approach:
