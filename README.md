@@ -10,7 +10,7 @@ This Java program, LongestCompoundWord.java, finds the longest compound word and
 4. Update the file path in LongestCompoundWord.java.
 5. Compile with javac LongestCompoundWord.java.
 6. Run with java LongestCompoundWord.
-7. Check the output for the longest compound word, total compound words, and processing time.
+7. Check the output for the longest compound word, second longest compound word, and processing time.
 
 # Design Decisions:
 
